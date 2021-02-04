@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CodeLibrary\CodeLibrary.csproj" />
+    <ProjectReference Include="..\MyExcellentApplication\MyExcellentApplication.csproj" />
   </ItemGroup>
 
 </Project>
